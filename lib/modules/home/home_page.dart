@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
                 await Navigator.pushNamed(context, "/barcode_scanner");
                 setState(() {});
               },
-              child: Container(
+              child: Container( 
                 width: 56,
                 height: 56,
                 decoration: BoxDecoration(

@@ -11,6 +11,8 @@ import './/shared/theme/app_colors.dart';
 
 class AppWidget extends StatefulWidget {
   AppWidget() {
+    // Mantém a aplicação sempre na vertical 
+    // mesmo que o celular esteja na horizontal
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.portraitDown,
       DeviceOrientation.portraitUp,

@@ -1,3 +1,7 @@
+# updated 1.0.0
+# added test/
+# added google-services.json
+
 # repository
 .metadata
 integration_test
@@ -56,6 +60,7 @@ analysis_benchmark.json
 .pub-cache/
 .pub/
 build/
+test/
 flutter_*.png
 linked_*.ds
 unlinked.ds
