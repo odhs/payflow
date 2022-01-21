@@ -6,7 +6,7 @@ This application is the result of a course at the RocketSeat school.
 
 ## Notion File
 
-- [Flutter Trail](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3) 🚀
+- [Flutter Trail](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3)
 
 ---
 
