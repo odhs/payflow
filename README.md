@@ -8,7 +8,7 @@ This application is the result of a course at the RocketSeat school.
 
 - [Flutter Trail](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3)
 
----
+
 
 ## How to Use
 
@@ -28,7 +28,6 @@ This application is the result of a course at the RocketSeat school.
    $ flutter run
    ```
 
----
 ## How to Contribute
 
    ```
@@ -44,7 +43,7 @@ This application is the result of a course at the RocketSeat school.
    $ git push origin my-feature
    ```
 
----
+
 
 ## License
 
